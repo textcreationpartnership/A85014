@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Feare of losing the old light. Or, A sermon preached in Exeter. By Thomas Fuller, B.D.</title>
+            <author>Fuller, Thomas, 1608-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85014</idno>
+            <idno type="STC">Wing F2424</idno>
+            <idno type="STC">Thomason E341_22</idno>
+            <idno type="STC">ESTC R200911</idno>
+            <idno type="EEBO-CITATION">99861531</idno>
+            <idno type="PROQUEST">99861531</idno>
+            <idno type="VID">159761</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159761)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E341[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Feare of losing the old light. Or, A sermon preached in Exeter. By Thomas Fuller, B.D.</title>
+                  <author>Fuller, Thomas, 1608-1661.</author>
+               </titleStmt>
+               <extent>[4], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.H. for Iohn Williams, at the signe of the Crowne in Pauls Church-yard.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The final leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "June 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation II, 5 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159761:1" rendition="simple:additions"/>
+            <p>FEARE OF LOSING THE OLD LIGHT.</p>
+            <p>OR, A SERMON PREACHED IN <hi>EXETER.</hi>
+            </p>
+            <p>BY THOMAS FULLER, <hi>B. D.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. H.</hi> for <hi>Iohn Williams,</hi> at the ſigne of the Crowne in <hi>Paule</hi> Church-yard. 1646.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:159761:2"/>
+            <pb facs="tcp:159761:2"/>
+            <head>
+               <hi>TO THE RIGHT WORSHIPFVL Mr.</hi> COOPER, <hi>Mayor of the City of EXETER, and to all the Members of that ancient Corparation.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hat the ſin againſt the holy Ghoſt is in Divinity, the ſame Ingratitude is in Morality; an offence unpardonable. It argues a baſe Diſpoſition in thoſe who are glad to receive what others give, but loath to confeſſe what they Receive.</p>
+            <p>I muſt acknowledge my engagement unto you to bee great, <hi>Is not Exeter a little one, and my ſoul ſhall live?</hi> where I ſafely anchored in theſe tempeſtuous times: It is a high advancement in this troubleſome Age, for one with a quiet conſcience to be Preferred to Life and Li<g ref="char:EOLhyphen"/>berty: It fared better with me; for whilſt her Infant Highneſſe, (on whoſe Soule and Body God crowd all bleſ<g ref="char:EOLhyphen"/>ſings Spirituall and Temporall, till there ſhall be no roome to receive more) though unable to feed her ſelfe, fed me, and many more of her ſervants: other accommodations were beſtowed upon me by your liberality.</p>
+            <pb facs="tcp:159761:3"/>
+            <p> In expreſſion of my gratitude, I preſent this Sermon unto you, hoping it ſhall receive the ſame entertainement from your eyes, as it formerly found from your eares, and ſtill be read with as much favour, as it was once heard with attention. And then, this widowes mite of mine will be made a tallent by your courteous acceptance there<g ref="char:EOLhyphen"/>of.</p>
+            <p>May the ſbield of Divine providence, which onely is of proofe againſt the fiery arrowes of his ſhooting, defend you from the noyſome peſtilence, and encompaſſe you with a wall of Help and Deliverance: yea, may God him<g ref="char:EOLhyphen"/>ſelfe ſtand watchman at the Gates of your City, to forbid the entrance of any thing that may be prejudiciall unto you, And give full and free admittance to whatſoever may tend to the advancement of your happineſſe here and hereafter. So reſteth</p>
+            <closer>
+               <signed>Your ſervant in all Chriſtian offices, THOMAS FULLER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:159761:3"/>
+            <head>FEARE OF LOSING THE OLD <hi>LIGHT.</hi>
+            </head>
+            <epigraph>
+               <bibl>REVEL. 2. 5.</bibl>
+               <q>And will remove thy Candleſtick out of his place, except thou repent.</q>
+            </epigraph>
+            <p n="1">1. <seg rend="decorInit">T</seg>His Epiſtle was wrote <hi>to the Angel of the Church of Ephe<g ref="char:EOLhyphen"/>ſus,</hi> to him <hi>eminently,</hi> not <hi>ex<g ref="char:EOLhyphen"/>cluſively,</hi> to Him <hi>chiefly,</hi> not <hi>only;</hi> to Him, yet ſo to Him, as a Letter of Publique concernment, directed to the Prolocutor, with intent that He (accor<g ref="char:EOLhyphen"/>ding to his office) ſhould acquaint all the Chri<g ref="char:EOLhyphen"/>ſtian Members of the Epheſian Church with
+<pb n="2" facs="tcp:159761:4"/> the contents thereof. Yea, the very word <hi>An<g ref="char:EOLhyphen"/>gel</hi> imports no leſſe, ſignifying a meſſenger, imployed by appointment, and intruſted for the benefit of others.</p>
+            <p n="2">2. Miniſters ought not to monopolize the ſpirituall intelligence which they have received from God, but to communicate it to others. And the more precious the knowledge is which they have, the greater is their obligation to im<g ref="char:EOLhyphen"/>part it. <hi>David</hi> ſaith, <note n="*" place="margin">Pſal. 119. 11.</note> 
+               <hi>Thy word have I hid in my heart, that I might not ſin againſt thee;</hi> and yet the ſame <hi>David</hi> had <note n="*" place="margin">Pſal. 40. 10.</note> ſaid, <hi>I have not hid thy righteouſneſſe within my heart, I have declared thy faithfulneſſe and thy ſalvation.</hi> Miniſters muſt, and muſt not hide Gods word in them<g ref="char:EOLhyphen"/>ſelves; muſt, as faithfull Stewards, muſt not, as crafty Huckſters; muſt, out of carefulneſſe to obſerve it; muſt not, out of covetouſneſſe to in<g ref="char:EOLhyphen"/>groſſe it.</p>
+            <p n="3">3. The Epiſtle conſiſts of three principall parts.</p>
+            <list>
+               <item>1. A commendation of the Epheſians former Piety and Patience.</item>
+               <item>2. A Reproofe of their preſent backſli<g ref="char:EOLhyphen"/>ding, that they <hi>had forſaken</hi> their <hi>firſt love.</hi>
+               </item>
+               <item>3. A Threatning of them with future miſery, in caſe they did not quickly amend.</item>
+            </list>
+            <p>Preachers muſt vary their voices interchan<g ref="char:EOLhyphen"/>gably
+<pb n="3" facs="tcp:159761:4"/> uſing frownes, ſmiles, ſwords, ſalves, cor<g ref="char:EOLhyphen"/>dials, corraſives as occaſion is offered. If <hi>all the Body</hi> of our Sermons be Praiſing, where is reproving? if all be Reproving, where is Com<g ref="char:EOLhyphen"/>forting? Phyſitians adviſe Nurſes, not alwayes to give the ſame receit to their Infants ſick of the wormes, but rather to make uſe of ſeverall Medicines, leſt otherwiſe, the Wormes accu<g ref="char:EOLhyphen"/>ſtomed to the conſtant taking of the ſame thing, by degrees turne that Phyſick into their food, and ſo are encreaſed, by what was intended for their deſtruction. It is wiſdome in Miniſters to try all wayes, to work on the hearts of their Hearers, full of ill Humours, and whoſe Cor<g ref="char:EOLhyphen"/>rupt Nature, if ever uſed to one Receit, will im<g ref="char:EOLhyphen"/>prove their badneſſe upon it, and bee the more confirmed by what was preſcribed to confute them.</p>
+            <p n="4">4. See here, no Church in this world can be free from all Faults. Even Epheſus, the beſt of the Seven, had ſomewhat amiſſe in it. As long as there be ſpots in the Moone, it is vaine to expect any thing Spotleſſe under it. The earneſt of Perfection (which is Sincerity) may be re<g ref="char:EOLhyphen"/>ceived in this life, but the full Payment thereof muſt be expected in another. Such as Fancy a Poſſibility of a Perfect Church here, muſt not onely mold a New forme, but make a new mat<g ref="char:EOLhyphen"/>ter, cauſe frailty to be firme, folly to bee wiſe, fleſh to be Spirit, Men to be Angels, Saints be<g ref="char:EOLhyphen"/>ing
+<pb n="4" facs="tcp:159761:5"/> too little in this Life, as full of their Infirmi<g ref="char:EOLhyphen"/>ties. Witneſſe the Church of Epheſus: For though <hi>He that was,</hi> praiſeth them for what they had bin, yet <hi>He that is</hi> reproveth them for what they were, and <hi>He that is to come,</hi> threat<g ref="char:EOLhyphen"/>neth them with what they ſhall be. <hi>And will re<g ref="char:EOLhyphen"/>move thy Candleſtick out of his Place, except thou repent.</hi>
+            </p>
+            <p n="5">5. <hi>I will ſing</hi> (ſaith <note n="*" place="margin">Pſal. 101. 1.</note> 
+               <hi>David) of Mercy, and Iudgement.</hi> Of theſe two, <hi>Iudgement</hi> the moſt ſolemne, <hi>Mercy</hi> the moſt pleaſing Muſick. Be<g ref="char:EOLhyphen"/>hold them both in the Text. Judgment pro<g ref="char:EOLhyphen"/>nounced in the Commination; <hi>And I will re<g ref="char:EOLhyphen"/>move thy Candleſtick out of his place.</hi> Mercy pro<g ref="char:EOLhyphen"/>miſed in the Condition, <hi>except thou repent.</hi> Yea, the Text conſiſts wholly of Mercy, and Mercy, there being Mercy in the very Commination; God, not ſurpriſing this Church with ſudden Deſtruction, but in ſome manner arming it a<g ref="char:EOLhyphen"/>gainſt himſelfe, by forewarning it. Satan never barks before he bites, never tels before hee tempts, becauſe he deſires and endeavours the ruine of mankinde. But God who intends their Amendment, not confuſion, alwayes warnes before He wounds, that ſo by tendering them the Opportunity of a ſeaſonable Submiſſion, they may prevent the miſery of their finall de<g ref="char:EOLhyphen"/>ſtruction. <hi>And I will remove the Candleſtick out of his Place, &amp;c.</hi> By <hi>Candleſtick</hi> is meant not the dull and dead Candleſtick, but it quickned and
+<pb n="5" facs="tcp:159761:5"/> enlivened with a Candle, namely the <hi>Word of God.</hi> Which amoun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth to this effect, that God would Un-church <hi>Epheſus,</hi> and deprive it of the Benefit of the Goſpel, which enlighteneth mens Soules in their wayes to heaven. In the Commination three Doctrines are obſervable, whereof this the firſt.</p>
+            <p n="6">6. I. Doct. God alone is the manager of the motions of the Candle of the Goſpel. <hi>Hee that cauſeth it to</hi> 
+               <note n="*" place="margin">Amos 4. 7.</note> 
+               <hi>raine upon one City, and cauſeth it not to raine upon another City, one piece was rai<g ref="char:EOLhyphen"/>ned upon, and the Piece whereupon it rained not withered:</hi> He it is that vouchſafed the Goſpell unto <hi>unrepenting Corazin and Bethſaida</hi> 
+               <note n="*" place="margin">Mat. 11. 21, 22.</note>, and denyed it to Tyre and Sidon, beſtowed it on unthankfull Capernaum, and withheld it from Sodom, which would have made better uſe thereof; God alone it was that forbad Paul to <hi>preach the word in</hi> 
+               <note n="*" place="margin">Acts 16. 6.</note> 
+               <hi>Aſia,</hi> yea, when he <hi>aſſailed to goe into Bithinia, the</hi> 
+               <note n="*" place="margin">Acts 16. 7.</note> 
+               <hi>Spirit ſuffered him not,</hi> but he was diverted with a Viſion, <hi>Come over in<g ref="char:EOLhyphen"/>to Macedonia, and help Vs.</hi>
+            </p>
+            <p n="7">7. Nor can any other Reaſon bee rendred hereof, ſave onely the <hi>Councell of his</hi> 
+               <note n="*" place="margin">Epheſ. 1. 5.</note> 
+               <hi>Will.</hi> This appeareth plainely in the People of the Jews. <hi>The Lord did not ſet his love upon</hi> 
+               <note n="*" place="margin">Deut. 7 7.</note> 
+               <hi>you, nor choſe you<g ref="char:punc">▪</g> becauſe ye were more in number then any Peo<g ref="char:EOLhyphen"/>ple (for yee were the leaſt of all People) but, Becauſe the Lord loved you &amp;c.</hi> Feweſt of all People, being ſoone ſummed up in Abraham and Sarah,
+<pb n="6" facs="tcp:159761:6"/> no more then two Cyphers in point of Procrea<g ref="char:EOLhyphen"/>tion, without a Miracle. And as their number was inconſiderable, ſo their Nature was intol<g ref="char:EOLhyphen"/>lerable, for when they wandred 40. yeares in the wilderneſſe, their intricate windings in their Progreſſe ſeemed ſtrait in compariſon of their crooked Conditions, and their wayes towards God, were more indirect, then their walking on Earth. Yea, in every outward reſpect; ſome of their neighbouring Nations did ſurpaſſe them. The Aegyptians excelled them in Wit, the Phae<g ref="char:EOLhyphen"/>niceans exceeded them in wealth, the Edomites in Antiquity, the Perſians in Induſtry, the Ara<g ref="char:EOLhyphen"/>bians in Activity, the Syrians in Cunning, the Aſſyrians in command, the Philiſtims in ſtrength, and the Anakims in ſtature, notwith<g ref="char:EOLhyphen"/>ſtanding all which, the Lord loved the Jews be<g ref="char:EOLhyphen"/>fore and above them all, <hi>even ſo Father becauſe it pleaſeth thee.</hi>
+            </p>
+            <p n="8">8. And bleſſed be God that it is in his power alone, to order the Motions and Stations of the Goſpel. <hi>Good ſucceſſe have He with his Honour:</hi> He that hath the moſt might and right holdeth the Candle. It cannot be put into a better Hand. Had ſome Envious or Covetous men (ſuch as our Age affordeth too many) bin imployed in ſo great a truſt, abſolutely to diſpoſe of the Goſpel, when, where, and to whom they plea<g ref="char:EOLhyphen"/>ſed, O what ſtrange worke would they have made? Our Saviour ſaid, <note n="*" place="margin">Mark 10. 23.</note> 
+               <hi>How hardly ſhall</hi>
+               <pb n="7" facs="tcp:159761:6"/> 
+               <hi>they that have Riches enter into the Kingdome of God?</hi> But in this Caſe, how Hardly ſhould they which want wealth be ſaved? their Pover<g ref="char:EOLhyphen"/>ty being unable to Purchaſe Gods Word for themſelves, and ſuch Miſers charity unlikely freely to beſtow it upon them. Such Simonia<g ref="char:EOLhyphen"/>call Patrons as Sell ſo deare their Preſentations to Church-livings, what unconſcionable rates would they ſet on the Goſpel it ſelfe, if it were in their Power to make merchandiſe thereof? But this <hi>marres their Mart,</hi> that the giving of the Goſpel to any Place or Perſons, ſooner or la<g ref="char:EOLhyphen"/>ter, the continuing it longer or ſhorter, the re<g ref="char:EOLhyphen"/>moving it, ſlowly, or ſuddenly, are all, and eve<g ref="char:EOLhyphen"/>ry one, only and abſolutely placed in his power and pleaſure, who ſpeakes in my Text, <hi>And I will remove the Candleſtick out of his place, except you repent.</hi>
+            </p>
+            <p n="9">9. Come wee now to the ſecond Doctrine contained in the Commination, which may thus bee propounded. God will not finally ex<g ref="char:EOLhyphen"/>tinguiſh, but onely remove the Candleſtick of his word. The Dove will not wholly flye a<g ref="char:EOLhyphen"/>way, but onely build her a new Neſt; the Set<g ref="char:EOLhyphen"/>ting of the Goſpel in one Place, will be the ri<g ref="char:EOLhyphen"/>ſing thereof in another, what is loſt in a King<g ref="char:EOLhyphen"/>dome, will be found in the World; Particular Churches may, the Church cannot fall away. And it is worth our obſerving, that when the word hath beene ſleighted and neglected by
+<pb n="8" facs="tcp:159761:7"/> ſome, immediately it hath bin embraced and honoured by others.</p>
+            <p n="10">10. Thus the Gaderens <note n="*" place="margin">Luke 8. 37.</note>, <hi>the whole multitude of their countrey beſought Chriſt to depart from them.</hi> Strange that this wind ſhould blow from all parts of the Compaſſe, that Wanderers ſhould entreat <hi>the Right Way</hi> to leave them. Sure the Patient is more ſick in Minde then Body, that is importunate to ſend away his Phyſitian. Well, their Sute is granted, <hi>ask and ye ſhall have,</hi> the Goſpel is a Gueſt which will not ſtay, where it perceiveth it Selfe not to be welcome. Away goeth our Saviour to the other Side, (oppoſite to the Gadarens in Poſition, and Diſpoſition) where behold his entertainement, <hi>And it came to paſſe that when Ieſus was returned, the People gladly received Him, for they were all waiting for him.</hi> Thus Gods word is a Commodity of quick Vent, it will not lye long on the Mer<g ref="char:EOLhyphen"/>chants hand for want of Chapmen, but if one will not, another will have it. Another Inſtance is preſented us in the Jews, who diſpiſed the Preaching of S. Paul at <note n="*" place="margin">Acts 13. 42.</note> Antioch, <hi>And when the Iews were gone out of the Synagogue, the Gentiles beſought that theſe words might be preached to them the next Sabboth.</hi> The Leavings, yea the Loathings of the Jews, were the longings of the Gentiles; the ones fragments, the others feaſt. They requeſted not the Apoſtles to make new Proviſion for them, (conſcience deſires not
+<pb n="9" facs="tcp:159761:7"/> what is novell, but what is needfull) but would be pleaſed with the Repetition of what He had formerly delivered; and indeed, a Sermon be<g ref="char:EOLhyphen"/>ing newly broached, taſteth the beſt at the ſe<g ref="char:EOLhyphen"/>cond draught. The Reſult of all is this, Thoſe feet of Gods Miniſters, who finding themſelves unworthily uſed, do <hi>ſhake the duſt off from them,</hi> (according to Chriſts <note n="*" place="margin">Mat. 10. 14.</note> command) in witneſſe againſt an ungratefull Place. I ſay, thoſe very ſelfe-ſame Individuall feet, ſhall elſewhere bee welcomed, as <hi>the</hi> 
+               <note n="*" place="margin">Rom. 10. 15.</note> 
+               <hi>Beautiful bringers of the Goſpel of Peace, and glad tidings of good things.</hi>
+            </p>
+            <p n="11">II. And here it will bee neither improper nor unprofitable, to obſerve ſome Paſſages con<g ref="char:EOLhyphen"/>cerning the Motions and Poſtures of the Can<g ref="char:EOLhyphen"/>dleſtick in my Text. And firſt, we may take no<g ref="char:EOLhyphen"/>tice, that the Perſecution gave the Occaſion to the ſpeedy propagatio<g ref="char:cmbAbbrStroke">̄</g> of the Goſpel. Had Satan bin contented to ſuffer the Saints to dwel peace<g ref="char:EOLhyphen"/>ably in Jeruſalem, probably Chriſtianity had not made its Progreſſe ſo faſt, and ſo far into the world. But it was Death to Him to ſee Good Men live in quiet, and therefore his malice mu<g ref="char:EOLhyphen"/>ſtered all his might to diſperſe <note n="*" place="margin">Acts 8. 1.</note> them, after the martyrdome of <hi>Stephen,</hi> whereby hee ſcattered the fire of the Goſpel inſtead of quenching it. Infant Chriſtianity, like infant <note n="*" place="margin">Luke 2. 52.</note> Chriſt, <hi>encrea<g ref="char:EOLhyphen"/>ſed in ſtature, and in favour with God and Man.</hi> Yea, it is uncertaine, whether Martyrs which did dye, or Confeſſors who did flye, contribu<g ref="char:EOLhyphen"/>ted
+<pb n="10" facs="tcp:159761:8"/> more to the advance of Religion, the former by their patient ſuffering confirming more, and laying the Truth the thicker, the latter by their Painfull preaching converting more, and ſprea<g ref="char:EOLhyphen"/>ding the Truth the broader. Thus the Devill did the Church an ill office, and God made it a good turne. Wee will pay our thanks where they are due, not to his malice who intended it to our miſchiefe, but to his ſtrength, wiſdome, and goodneſſe who diſpoſed it for our hap<g ref="char:EOLhyphen"/>pineſſe.</p>
+            <p n="12">12. Secondly, wee hitherto cannot finde a Countrey, from which the Goſpel did totally depart, to which it ever afterwards returned. The <hi>white</hi> 
+               <note n="*" place="margin">Revel. 6. 2.</note> 
+               <hi>horſe</hi> in the Revelation, (which ge<g ref="char:EOLhyphen"/>nerally is interpreted the word of God) <hi>went forth conquering, and to conquer. Went forth,</hi> ſtill in a Progreſſive not Retrograde motion, like the Sun in the Firmament, which <note n="*" place="margin">Pſal. 19. 5.</note> 
+               <hi>commeth forth as a Bridegroome out of his chamber, and rejoyceth as a Giant to run his courſe,</hi> his retreating ten De<g ref="char:EOLhyphen"/>grees on the Diall of <note n="*" place="margin">King. 20. 11.</note> Ahaz, being extraordi<g ref="char:EOLhyphen"/>nary and miraculous. Wherefore ſeeing it ſeems not to ſtand with the State of the Goſpel, to goe away <hi>animo revertendi,</hi> it will bee our wiſeſt courſe, carefully to retaine, what wee have no Preſident to recover.</p>
+            <p n="13">13. Thirdly, Chriſtendome is <hi>a Zoar,</hi> a little one, in compariſon of the Pagan part of the world. Call for a Map, as our Saviour did for
+<pb n="11" facs="tcp:159761:8"/> 
+               <hi>a Penny,</hi> and ſee how ſmall a circuit thereof hath the Image and ſuperſcription of Chriſt upon it. Thus it is meet, that all the Earth be<g ref="char:EOLhyphen"/>ing Gods <hi>Demeanes,</hi> his Private Garden ſhould bee leſſe then his common grounds about it. There was a place in the city of Jeruſalem, cal<g ref="char:EOLhyphen"/>led <hi>the Daughter of Zion,</hi> ſo named, ſaith an <note n="*" place="margin">Adricomius Theatro. Ter. Sanct. p 152. numb. 26.</note> Au<g ref="char:EOLhyphen"/>thor, becauſe it was a parcell of buildings, which branched or iſſued out of old Zion, as a Colo<g ref="char:EOLhyphen"/>ny thereof, and ſurely pretty it was to behold this Babe in the arme of her Mother. But, oh that I might but live to ſee a Daughter of Chriſten<g ref="char:EOLhyphen"/>dome borne! I meane a Plantation of Piety a<g ref="char:EOLhyphen"/>mongſt the Pagans, a Copy like our Originall, (ſave onely that it be not written with ſuch red Inke) in matter of doctrines, and knowledge of Religion.</p>
+            <p n="14">14. Fourthly, Chriſtianity hath beene theſe laſt hundreds of yeares, little effectuall in con<g ref="char:EOLhyphen"/>verting of Heathen. For, be it reported to Seri<g ref="char:EOLhyphen"/>ous Conſideration, whether thoſe Indians, ra<g ref="char:EOLhyphen"/>ther watered then baptiſed, driven into the Church, as the <hi>money changers out</hi> 
+               <note n="*" place="margin">John 2<g ref="char:punc">▪</g> 15.</note> 
+               <hi>of the Tem<g ref="char:EOLhyphen"/>ple,</hi> deſerve to be accounted ſolid Chriſtians. Abate theſe, and then we ſhall finde ſmall im<g ref="char:EOLhyphen"/>preſſion and Improvement of the Goſpel in theſe latter Ages on Paganiſme. I have not heard of many fiſh (underſtand me in a myſticall meaning) caught in <hi>New England,</hi> and yet I have not beene deafe to liſſen, nor they I beleeve
+<pb n="12" facs="tcp:159761:9"/> dumb to tell of their Achievements in that kind. I ſpeake not this, (God knoweth my heart) to the diſgrace of any <hi>Labourers</hi> there, being bet<g ref="char:EOLhyphen"/>ter taught, then to condemne mens endeavours by the ſucceſſe; and am ſo ſenſible, how poore<g ref="char:EOLhyphen"/>ly our Miniſtery prevaileth here at home, on profeſſed Chriſtians, that I have little cauſe, and leſſe comfort, to cenſure their Preaching, for not taking effect upon Pagans. Onely I ſpeake this, to the intent that we all ſhould enter into a ſtrict Scrutiny in our owne ſoules; what may be the Reaſon, of this unuſuall barrenneſſe of our Chriſtian Religion. Surely it is no infirmi<g ref="char:EOLhyphen"/>ty in the Doctrine it ſelfe, diſabled with Age, like <hi>Naomi</hi> that could have <note n="*" place="margin">Ruth 1. 11.</note> 
+               <hi>no more Sons in her wombe:</hi> the fault is not in the Religion, but in the Profeſſors of it, that of late wee have beene more unhappy in killing of Chriſtians, then hap<g ref="char:EOLhyphen"/>py in converting of Pagans.</p>
+            <p n="15">15. Laſtly, from Jeruſalem (whence the Goſpel firſt ſtarted) this Candleſtick is obſer<g ref="char:EOLhyphen"/>ved to have a favourable inclination to verge more and more Weſtward. This putteth us in ſome hopes of America, in Gods due time; God knows what good effects to them our ſad war may produce, ſome may be frighted there<g ref="char:EOLhyphen"/>with over into thoſe Parts (being more willing to endure American, then Engliſh <hi>Savages)</hi> or out of curioſity to ſee, neceſſity to live, frugali<g ref="char:EOLhyphen"/>ty to gaine, may carry Religion over with them,
+<pb n="13" facs="tcp:159761:9"/> into this Barbarous countrey. Onely God for<g ref="char:EOLhyphen"/>bid we ſhould make ſo bad a bargaine, as whol<g ref="char:EOLhyphen"/>ly to exchange our Goſpel for their Gold, our Saviour for their Silver, fetch thence <hi>lignum Vi<g ref="char:EOLhyphen"/>tae,</hi> and deprive our ſelves of the <hi>Tree of life</hi> in liew thereof. May not their planting be our ſubplanting, their founding in Chriſt our con<g ref="char:EOLhyphen"/>fuſion; let them have of our light, not all our light; let their candle bee kindled at ours, ours not removed to them, as God threatned the Epheſians in my Text, <hi>I will remove thy Candle<g ref="char:EOLhyphen"/>ſtick out of his place, except thou repent.</hi>
+            </p>
+            <p n="16">16. The third and laſt Doctrine couched in the Commination is this, God never removes the Goſpel from a Nation, untill they or their Anceſtors firſt remove themſelves from his ſer<g ref="char:EOLhyphen"/>vice. Where the Goſpel is given, it is Gods Mercy, not mans Merit, where it is denyed, it is Gods Pleaſure, no Injury to man; where it is removed, it is Gods Juſtice, and mans puniſh<g ref="char:EOLhyphen"/>ment, who hath beene unthankfull for it, and unprofitable under it. Thus the Jews our elder brethren were diſinherited for their Infidelity, at this day wandring in all lands, yet having no Land, <hi>ſine Rege, Lege, Solo, Salo,</hi> (I had almoſt ſaid <hi>Coelo</hi> too) ſtumbling at Him that ſhould ſtay them, unhappy if they knew their conditi<g ref="char:EOLhyphen"/>on, and more unhappy, becauſe they are igno<g ref="char:EOLhyphen"/>rant of it.</p>
+            <p n="17">17. <hi>Object.</hi> But this is hard dealing, ſo
+<pb n="14" facs="tcp:159761:10"/> juſt, that it is unjuſt, that children for the default of their Parents ſhall be debarred from the meanes of their Salvation. Will God baniſh the ſound of a <hi>Proverb</hi> 
+               <note n="*" place="margin">Ezek. 18. 3.</note> out of Iſrael, and pra<g ref="char:EOLhyphen"/>ctiſe the Senſe thereof in his owne proceedings, <hi>ſetting the childrens teeth on edge,</hi> (even to their <note n="*" place="margin">Mat. 8. 12.</note> 
+               <hi>gnaſhing</hi> in Hell fire) <hi>for the Sowre grapes which their fathers have eaten.</hi>
+            </p>
+            <p n="18">18. <hi>Anſ.</hi> The Day of Judgement wil be the day of the manifeſtation of the righteouſneſſe of God, whoſe actions which now are juſt, ſhall then appeare ſo, to the clearing of his wayes, and convincing of others wickedneſſe. The Damned ſhall want <hi>a drop of the water</hi> of a co<g ref="char:EOLhyphen"/>lourable excuſe, <hi>to coole their tongues with,</hi> diſ<g ref="char:EOLhyphen"/>contented with their condition, but ſatisfied with the cauſe thereof, ſo that they may blaſ<g ref="char:EOLhyphen"/>pheme, but not complaine. Untill then let us be content, <hi>to tarry the Lords leaſure,</hi> ſuſpending our Cenſures, and admiring what we cannot under<g ref="char:EOLhyphen"/>ſtand. <hi>David</hi> ſaith to God, <hi>Thy way</hi> 
+               <note n="*" place="margin">Pſal. 79. 19.</note> 
+               <hi>is in the Sea,</hi> and the ſenſe is the ſame though inverted, <hi>There is a Sea in thy way,</hi> and that a bottomleſſe one, (not like the Adriatick, <hi>Acts</hi> 27. 28 where<g ref="char:EOLhyphen"/>in the Marriners ſounded, <hi>and found it</hi> 20. <hi>fa<g ref="char:EOLhyphen"/>thoms, and when they had gone a little farther, they ſounded againe, and found it</hi> 15. <hi>fathoms,)</hi> but in this Ocean the farther we ſaile the deeper we ſinke; and therefore let us make what ſpeed to the Shoare, except the Pilot here had more skill,
+<pb n="15" facs="tcp:159761:10"/> or his tackling more ſtrength.</p>
+            <p n="19">19. Meane time, how carefull ought Pa<g ref="char:EOLhyphen"/>rents to be, leſt by their wickedneſſe they wil<g ref="char:EOLhyphen"/>fully deprive their Poſterity of the Goſpel. Here, O let me plead for them who cannot ſpeak for themſelves; yea, I know not how to call my Clients, being as yet unnam'd, unborne, unbe<g ref="char:EOLhyphen"/>got, I meane ſuch little little <hi>Levi's,</hi> which as yet lye hid in the <hi>Loynes</hi> of their Grandfathers: Oh let not their Soules be ſlain before their bo<g ref="char:EOLhyphen"/>dies be borne, by wilfull debarring them, by the prophaneneſſe of this preſent Age, from the fu<g ref="char:EOLhyphen"/>ture benefit of Gods word. Let that ſturdy fa<g ref="char:EOLhyphen"/>ther, careleſſe of himſelfe, be conjured into Pie<g ref="char:EOLhyphen"/>ty, by that potent charme, <hi>per ſpem creſcentis Iuli.</hi> Who can reade the horrid Hiſtory of ſo many thouſand Childrens corpſes, drowned (as they ſay) in one fiſhpond in Italy, by thoſe Vo<g ref="char:EOLhyphen"/>taries, their mothers, and is not inſtantly ready, if the fact be proved, to arraigne, condemne, and execute the Memory of ſuch Monſtrous Mur<g ref="char:EOLhyphen"/>derers. What then ſhall we ſay to ſuch Parents as plunge the Soules of Millions in the Pit of Perdition, ſacrificing the Spirituall lives of their Sons and Daughters to Devils? ſo that as they walke on in their wicked wayes, the floore whereon they tread, may bee ſaid to be paved with ſlaughtered Infants, and that they trample on a Charnel-Houſe of childrens Soules of their owne killing, becauſe the candleſtick of the
+<pb n="16" facs="tcp:159761:11"/> Word, was removed from them for their fathers offences.</p>
+            <p n="20">20. See a ſad ſpectacle hereof, in the Church of Epheſus, to which God at this Day hath done, what hee threatned in the Text. Indeed, ſome hundreds of years after the writing of this Epiſtle, Epheſus ſtill continued the Staple of Religion and learning, where ſome Generall Counſels were celebrated. Till at laſt, growing notoriouſly erronious in doctrine, and vicious in Manners, it is at the preſent reduced to a mi<g ref="char:EOLhyphen"/>ſerable condition, ſhrunke almoſt inviſible in our Moderne Maps, ſave that ſome charitable Geographers, in reverence of what ſhee hath beene, allow her a bare remembrance in their larger Deſcriptions. The few Chriſtians there<g ref="char:EOLhyphen"/>in, and thereabout, grow contented vaſſailes to the Turke, and the ſoundeſt of them are infected in the Point of the Progreſſion of the holy Spi<g ref="char:EOLhyphen"/>rit, with many other grievous errours. Gene<g ref="char:EOLhyphen"/>rally in thoſe Parts, God hath permitted his Arke to fall downe before Dagon, the Alchoran hath baniſhed the Bible, the Candle of the word is put out, and in the roome thereof the Moone of Mahomet is riſen, whoſe Light is worſe then darkeneſſe it Selfe. All which had beene ſeaſonably prevented, if the Epheſians had beene but as carefull to take, as God was kinde to tender the Caution in my Text. <hi>And will remove the Candleſtick out of his Place, except you repent.</hi>
+            </p>
+            <p n="21">
+               <pb n="17" facs="tcp:159761:11"/> 21. Now for application, to leave Ephe<g ref="char:EOLhyphen"/>ſus and come to England: Know then in the firſt place, our Land hath equalled Epheſus in favours received. No Iland in the world ſo farre diſtant from Jeruſalem, ſaw the Light of the Goſpel ſo ſoone; yea, it was morning here, when it was midnight in Germany, <hi>the laſt, was firſt,</hi> our Countrey placed in the <hi>Rere of the world,</hi> marched one of the formoſt in receiving the Chriſtian Religion. And ſince the Word was here once planted, hitherto it was never totally loſt, but ſtill grew amongſt the barren Mountaines in <hi>Wales;</hi> as Piety hath ever an ambition to keepe company with Pover<g ref="char:EOLhyphen"/>ty. Yea, here Religion hath enjoyed her ſelfe as purely and plentifully, as in any other place, and though often ſick of ſeverall Superſtitions, yet theſe were not the Peculiar Diſeaſes of Eng<g ref="char:EOLhyphen"/>land, but the Epidemicall Infections of thoſe Ages.</p>
+            <p n="22">22. Secondly, England (what by her ſinnes, which have cauſed this war, and which this war hath cauſed,) hath equalled Epheſus in faults committed. In one particular hath ex<g ref="char:EOLhyphen"/>ceeded Her. For, the holy Spirit commendeth Epheſus in the next verſe, <hi>for hating the Nico<g ref="char:EOLhyphen"/>laitans, whom he alſo hated.</hi> Theſe Nicolai<g ref="char:EOLhyphen"/>tans were ſo called, from <note n="*" place="margin">Acts 6. 5.</note> Nicolas one of the
+<pb n="18" facs="tcp:159761:12"/> ſeven Deacons, who (as Eccleſiaſticall Hiſtory reporteth) having a Beautifull wife, and being taxed for being cauſeleſly Jealous of Her, to confute his Accuſers, proſtituted his wife to the unchaſte embraces of any, thereby to wipe off the Aſperſion of Jealouſie. So then, thoſe who evidence their oppoſition to any Er<g ref="char:EOLhyphen"/>ror in Judgement, or demonſtrate their di<g ref="char:EOLhyphen"/>ſtance from any vice in practiſe, with ſuch vio<g ref="char:EOLhyphen"/>lence and furious indiſcretion, that they fall into the oppoſite error, or reele into the con<g ref="char:EOLhyphen"/>trary Vice, are moſt truly and properly, though not Literall, ſpirituall Nicolaitans. And in this Senſe, how many wee have of this Sect in our Kingdome, not hated, but favoured, and fo<g ref="char:EOLhyphen"/>ſtered, I am grieved to thinke, and unable to number.</p>
+            <p n="23">23. But now the third Parallel I dare not ſpeake, and I dare not conceale. Yet, why ſhould I not ſpeake it? In Spaine, great re<g ref="char:EOLhyphen"/>wards are given to ſuch, as firſt are the meſſen<g ref="char:EOLhyphen"/>gers of Bad newes, provided they doe not diſperſe it to the Diſadvantage of the publick, but impart it onely to the State, which may mend ill accidents before they become worſe. Sure then, though I deſire no favour, I deſerve no frowne, if from the ſimplicity of my heart, without ſiniſter intents, I ſhew the danger
+<pb n="19" facs="tcp:159761:12"/> likely to ceaſe on us, if not providently diver<g ref="char:EOLhyphen"/>ted by ſpeedy repentance. Plainely tis this, I feare we ſhall be like Epheſus in future puniſh<g ref="char:EOLhyphen"/>ment, and that the <hi>candleſtick will be removed out of his place.</hi>
+            </p>
+            <p n="24">24. <hi>Objection.</hi> There is no danger of the departure of the Light which now daily en<g ref="char:EOLhyphen"/>creaſeth. Preaching now a dayes is like Silver in the reigne of <note n="*" place="margin">1 King. 10. 21.</note> Solomon, ſo plentifull <hi>that it was nothing accounted of.</hi> The Goſpel former<g ref="char:EOLhyphen"/>ly going afoote, now rides on horſebacke. Wherefore concerning the removing of the Word, you fancy cauſleſſe feares, then fear your cauſleſſe fancies, it now ſhineth brighter then ever before.</p>
+            <p n="25">25. <hi>Anſw.</hi> As all is not Gold that gliſters, ſo all is not light that ſhines, for Glowormes and rotten wood ſhine in the darke. Firebrands alſo doe more harme with their Smoake, then good with their Light; and ſuch are many In<g ref="char:EOLhyphen"/>cendiaries, which without either authority of calling, or ability of learning invade the Mini<g ref="char:EOLhyphen"/>ſteriall function. Whoſe Sermons conſiſt one<g ref="char:EOLhyphen"/>ly of two good Sentences, the firſt, as contai<g ref="char:EOLhyphen"/>ning the Text, and the laſt, which muſt bee al<g ref="char:EOLhyphen"/>lowed good in this reſpect, becauſe it puts an end to a tedious and impertinent diſcourſe.
+<pb n="20" facs="tcp:159761:13"/> Notwithſtanding all pretended new lights, and plenty of preaching. I perſiſt in my former Su<g ref="char:EOLhyphen"/>ſpicion. Yet am I not ſo much affrighted with all the Prodigies reported to have appeared in the Ayre, as with the portentous Sins which I dayly behold committed on the Earth. And this I ſay. God commonly moves the candle before he removes it. The light ſeemes ſicke and faint before it dyes. In Mines, before a dampe commeth, candles begin to burne blew, as by inſtinct mourning their owne funerall be<g ref="char:EOLhyphen"/>fore hand. Some ſuch ſad ſymptomes diſcover themſelves in our Candle, in the preaching of the word, if ſeriouſly conſidered.</p>
+            <p n="26">26. Firſt, it is an ill ſigne that ſo many wantonly play with the Word. When chil<g ref="char:EOLhyphen"/>dren begin to try Concluſions with a Candle, ſporting themſelves <hi>at in and out with it,</hi> their Parents uſe to take it from them, leaving them to doe pennance in the Darke, for their wan<g ref="char:EOLhyphen"/>tonneſſe. I am afraid God will ſerve us in like manner: ſo many have dallied with the Scri<g ref="char:EOLhyphen"/>pture, producing it for the maintenance of their upſtart monſtrous Opinions. Secondly, ſo many Theeves in the Candle, ſuch variety of Sects and Schiſmes, which waſt and miſpend the light, is another ill boding Symptome. Yet whilſt others wonder that they are ſo many, I
+<pb n="21" facs="tcp:159761:13"/> wonder they be no more; for untill a good Peace be ſetled, which God Speed, and whilſt the great <hi>Bond of Diſcipline is broken,</hi> every ſtick in the Fagot will be abſolute and ſet up for it ſelfe. Laſtly, if the wax be taken away from the candle, (as in many places it is, and Tithes denied for the Miniſters maintenance) the light muſt decay; the five fooliſh <note n="*" place="margin">Mat. 25. 8.</note> Vir<g ref="char:EOLhyphen"/>gins having ſo much wiſdome, as to know that their Lamps could not burne when they wan<g ref="char:EOLhyphen"/>ted oyle, except any doe thinke Miniſters may be like the miraculous <note n="*" place="margin">Exod. 3. 2.</note> Buſh, which did burne and not conſume, that ſo they may alwayes worke, and yet never waſt. Put theſe together, (and others I could inſtance in) and though Mi<g ref="char:EOLhyphen"/>niſters, Gods Doves, delight not to be Ravens to croake Funerals, though they Gods fixed Stars, would not be Comets preſaging ſad E<g ref="char:EOLhyphen"/>vents, though theſe <note n="*" place="margin">2 Cor. 5. 20.</note> Ambaſſadours, <hi>praying you to be reconciled to God,</hi> are loath to bee He<g ref="char:EOLhyphen"/>raulds to proclaime war: Yet be theſe things ſeriouſly conſidered, and may they not amount to make us <hi>Iealous</hi> over England <hi>with a godly jealouſie,</hi> what for the future will become of us? And this I will boldly adde, that an awfull feare of loſing the Candleſtick is the beſt Hope we have to keepe it.</p>
+            <p n="27">27. But I foreſee a Poſterne Doore ready to
+<pb n="22" facs="tcp:159761:14"/> be opened, that eſcaping thorow it my Audi<g ref="char:EOLhyphen"/>tors may decline whatſoever this Day I have delivered. Some will ſay, what Joſiah was <note n="*" place="margin">
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cron. 34. 28.</note> promiſed, we preſume on, <hi>the Evill will not come in our Dayes.</hi> The Goſpel will laſt my life in the Land, and if we are not to care for to morrow, much leſſe will wee carke for the Day after our Death. Beſides, if a generall Judgement ſhould come in my Time, I ſhall beare but my ſhare, and ſhift as well as ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p n="28">28. Well, Beloved tis true, this inconveni<g ref="char:EOLhyphen"/>ence attends all generall diſcourſes, (ſuch as this Dayes Sermon is) that as <hi>filius populi</hi> hath no father, ſo publique reproofes are ſeldome particularly applyed by any to themſelves. But, that I may catch ſome fiſh, I muſt weave my net cloſer, and draw the threds thereof neerer together. Bee it granted what we hope, and thou believeſt, that the light of the Goſpel will laſt thy life, yet how long or little time thy life will laſt, there is the Queſtion. Nor will it be any violence to my Text, in a ſecondary Senſe, to expound this <hi>Candle,</hi> of the Life of every man, which how long ſince it hath beene kindled we know, but how ſoone it may bee quenched God knows. Some wares in England, are uſually ſet to ſale <hi>by the candle;</hi> that chap<g ref="char:EOLhyphen"/>man
+<pb n="23" facs="tcp:159761:14"/> carrieth them, who giveth the moſt before the candle is burnt out. Such is all our conditi<g ref="char:EOLhyphen"/>on at this time; Heaven now is to be had, Hap<g ref="char:EOLhyphen"/>pineſſe to be purchaſed, <note n="*" place="margin">Prov. 23. 23.</note> 
+               <hi>Buy the truth, and ſell it not,</hi> loſe not a good bargaine, bid boun<g ref="char:EOLhyphen"/>tifully, be not body wiſe, and ſoule-fooliſh; the candle weares, the candle waſts, caſualty may, ſickneſſe will, Age muſt extinguiſh it. If once the light be out it is too late, there is <hi>no worke,</hi> 
+               <note n="*" place="margin">Eccleſ. 9. 10.</note> 
+               <hi>nor deviſe, nor knowledge, nor wiſdome in the grave, whither thou goeſt.</hi>
+            </p>
+            <p n="29">29. I ſhould now come to the Condition, <hi>except thou repent.</hi> But it is high time for me at this preſent to leave preaching, and more then high time for us all to begin practiſing of this point of repentance. <hi>Let us rend our hearts, and not our garments, and turne to the Lord our God.</hi> The melting of marble, ſo that it become fufill or runnable, is recounted one of thoſe Myſteries, which are loſt in our Age, though formerly knowne to, and performed by the Ancients. But, O let us labour that the Art of melting ſto<g ref="char:EOLhyphen"/>ny Hearts, (ſuch as ours are by Nature and cuſtome of ſinning) be never loſt or forgotten, but kept in ure, and put in daylie practiſe. That ſo the Candleſtick may remaine amongſt us, not onely 50. dayes, the time preſcribed for <note n="*" place="margin">Jonah 3. 4.</note> Niniveh's Repentance, or 15. yeares, the leaſe
+<pb n="24" facs="tcp:159761:15"/> of <note n="*" place="margin">2 King. 20. 6.</note> Hezekiahs health reſtored, or terme of our life outright, a gift granted to good <note n="*" place="margin">2 Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 34. 28.</note> Jo<g ref="char:EOLhyphen"/>ſiah, or for an hundred and twenty yeares, ſo long was allotted for the <note n="*" place="margin">Gen. 6. 3.</note> amendement of the old world, or for foure generations ſucceſ<g ref="char:EOLhyphen"/>ſively, which Leaſe of Lives on the Throne of Iſrael, was beſtowed on <note n="*" place="margin">2 King. 10. 30.</note> Jehu, but ſo long as the <hi>Gnolam</hi> the Eternity of this world ſhall laſt, as long <hi>as the</hi> 
+               <note n="*" place="margin">Pſal. 72. 7.</note> 
+               <hi>Moone endureth in heaven.</hi>
+            </p>
+            <p n="30">30. Men naturally decline Death, and the Quick at the day of Judgement deſire, <hi>not to bee</hi> 
+               <note n="*" place="margin">Cor. 5. 4.</note> 
+               <hi>uncloathed, but cloathed upon that mortality may bee ſwallowed up of Life.</hi> The ſame is our re<g ref="char:EOLhyphen"/>queſt, that there may bee no interruption or intermiſſion of our Light, that it may bee not put out, but tooke up, not deſtroyed, but de<g ref="char:EOLhyphen"/>voured in the tranſcendent Splendor of Glo<g ref="char:EOLhyphen"/>ry. Then it will be no thrift <hi>to burne Day, and there ſhall bee no night there, and they need no</hi> 
+               <note n="*" place="margin">Revel. 22. 5.</note> 
+               <hi>candle,</hi> no uſe of preaching, Sermons ſhall ceaſe, and God alone ſhall bee the Text, the Hallelujahs of Angels and Saints the Comment upon it.</p>
+            <p n="31">31. And now I am to take my finall farewell of this famous City of Exeter. I have ſuffered from ſome, for ſaying ſeve<g ref="char:EOLhyphen"/>rall
+<pb n="25" facs="tcp:159761:15"/> times, that I thought this or this would bee my laſt Sermon, when afterwards I have preached againe. Yet I hope the Gueſts are not hurt, if I bring them in a courſe more then I promiſed, or they expect. Such would have forborne their cenſures, had they conſulted with the Epiſtle to the Romans. In the 15. Chapter, verſe 33. the Apoſtle ſeemes to cloſe and conclude his Diſcourſe, <hi>Now the God of Peace bee with you all, Amen.</hi> And yet preſently he beginneth afreſh, and continueth his Epiſtle a whole Chapter longer. Yea, in the ſixteenth Chapter, verſe 20. S. <hi>Paul</hi> takes a ſecond ſolemne <hi>vale, The grace of our Lord Ie<g ref="char:EOLhyphen"/>ſus Chriſt be with you all, Amen:</hi> and notwith<g ref="char:EOLhyphen"/>ſtanding ſtill he ſpins out his matter three ver<g ref="char:EOLhyphen"/>ſes farther, till that full and finall Period, verſe 27. To God onely wiſe bee glory, thorow <hi>Ieſus Chriſt for ever, Amen.</hi> Thus, <hi>loath to Depart,</hi> is the tune of all loving friends; The ſame I may pleade for my Selfe, ſo often ta<g ref="char:EOLhyphen"/>king my farewell, wherein if any were decei<g ref="char:EOLhyphen"/>ved, none I am ſure were injured.</p>
+            <p>Now this is all, The Rabbins have a conceit, that Manna reliſhed ſo to the pallats of the Jews, juſt as the eater thereof did fancy or deſire. Conſult with your ſelves, and wiſh your owne ſpirituall and temporall conveni<g ref="char:EOLhyphen"/>encies,
+<pb n="26" facs="tcp:159761:16"/> wiſh what you will, for Body, Soule, both, You, Yours, your Private, the Publique; confine not your happineſſe with too narrow meaſure of your owne making. And my con<g ref="char:EOLhyphen"/>ſtant Prayer to God ſhall be, that he would be pleaſed to be to you all in Generall, each one in particular, that very thing, which You for your owne Good doe moſt deſire.</p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
